@@ -5,6 +5,7 @@ This repository is a simple demo project you can use to test Hyperlift’s build
 ## 📖 What you’ll find here
 - A basic landing page that deploys in seconds
 - A $${\color{green}Dockerfile}$$ you can use as a starting point
+- A **Dockerfile** you can use as a starting point
 - Example configuration for testing
 
 ## 🚀 How to use it
