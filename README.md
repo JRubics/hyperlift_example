@@ -17,7 +17,7 @@ This repository is a simple demo project you can use to test Hyperlift’s build
 ## 🏷️ Important notes
 - This project is for testing only - it’s too simple for real-world use.
 - To build your own apps, you’ll need to create a proper Dockerfile tailored to your project.
-- For guidance, check out the [official Dockerfile documentation](https://docs.docker.com/reference/dockerfile/) and Hyperlift’s Knowledge Base.
+- For guidance, check out the [official Dockerfile documentation](https://docs.docker.com/reference/dockerfile/) and [Hyperlift’s Knowledge Base](https://www.spaceship.com/knowledgebase/category/starlight-hyperlift-help-articles/).
 
 ## 📝 License
 This project is open-sourced under the MIT License. You’re free to use and modify it for your own testing purposes.
